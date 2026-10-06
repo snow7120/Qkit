@@ -20,18 +20,6 @@ these ideas by computing them directly.
 - [ ] Phase 3: SYK model
 - [ ] Phase 4: scrambling (OTOCs)
 
-## Installation
-
-```
-git clone https://github.com/YOUR-USERNAME/qkit.git
-cd qkit
-python -m venv .venv
-.venv\Scripts\activate        # Windows (Mac/Linux: source .venv/bin/activate)
-pip install -r requirements.txt
-```
-
-Run the tests with `python -m pytest`.
-
 ## Project structure
 
 - `qkit/`: library code (linear algebra helpers, entropies, random states)
